@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "enSreNfZvS7fwUKSUDXjih+kRiIuuEhZXxTyxPPtYOYKUhTVx6d4uRcsn5qDrbzB7y+Hxju2+HvpT7goTDlSPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tasta\\Desktop\\test\\Denemetest\\Denemetest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tasta\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
